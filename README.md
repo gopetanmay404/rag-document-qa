@@ -14,6 +14,10 @@
 
 This is a **production-grade Agentic RAG (Retrieval-Augmented Generation)** application.
 
+## Live Demo
+
+🚀 Deployment coming soon
+
 You upload PDF documents. You ask questions. The system answers using **only** the content from your documents — with citations, confidence scores, and source tracing.
 
 What makes it **agentic**: if the first retrieval attempt fails to find relevant content, the system **automatically rewrites your query** and retries — without you doing anything.
