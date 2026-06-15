@@ -45,3 +45,4 @@ rag_logs.txt
 .vscode/
 .idea/
 *.swp
+storage/
