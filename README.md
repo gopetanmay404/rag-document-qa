@@ -1,4 +1,4 @@
-# 🤖 Production Agentic RAG System
+#  Production Agentic RAG System
 
 > A self-correcting, hybrid-retrieval, document Q&A chatbot built with LangGraph, FAISS, BM25, and Groq LLM.
 
@@ -417,12 +417,6 @@ If asked to explain this project in an interview:
 
 ---
 
-## 📄 Related Files
-
-- `report.tex` — Full LaTeX project report with equations, diagrams, and tables
-- Compile with: `pdflatex report.tex` (or upload to [Overleaf](https://overleaf.com))
-
----
 
 ## 📜 License
 
