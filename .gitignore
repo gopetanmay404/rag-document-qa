@@ -1,0 +1,47 @@
+# ── Virtual Environments ─────────────────────────────────
+myenv/
+venv/
+env/
+.venv/
+ENV/
+
+# ── API Keys & Secrets ───────────────────────────────────
+.env
+*.env
+secrets.toml
+
+# ── FAISS Index (large binary files — rebuild on deploy) ─
+faiss_index/
+
+# ── Python Cache ─────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# ── HuggingFace Model Cache ──────────────────────────────
+.cache/
+*.bin
+*.safetensors
+
+# ── Streamlit Local Config ───────────────────────────────
+.streamlit/secrets.toml
+
+# ── OS Files ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Jupyter ──────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Logs ─────────────────────────────────────────────────
+*.log
+rag_logs.txt
+
+# ── IDE ──────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
