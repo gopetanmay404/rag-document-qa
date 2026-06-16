@@ -19,6 +19,7 @@ This is a **production-grade Agentic RAG (Retrieval-Augmented Generation)** appl
   <img src="https://img.shields.io/badge/RAG%20DOCUMENT%20APP-LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=000000" height="50" alt="RAG Document App Live Demo" />
 </a>
 
+---
 </div>
 
 You upload PDF documents. You ask questions. The system answers using **only** the content from your documents — with citations, confidence scores, and source tracing.
