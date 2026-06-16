@@ -16,7 +16,10 @@ This is a **production-grade Agentic RAG (Retrieval-Augmented Generation)** appl
 
 ## Live Demo
 
-🚀 Deployment coming soon
+<div align="center">
+[![RAG DOC SYSTEM](https://img.shields.io/badge/RAG%20DOC%20SYSTEM-Live%20App-success?style=for-the-badge&logo=streamlit)](https://rag-document-app-tannu.streamlit.app/)
+
+</div>
 
 You upload PDF documents. You ask questions. The system answers using **only** the content from your documents — with citations, confidence scores, and source tracing.
 
