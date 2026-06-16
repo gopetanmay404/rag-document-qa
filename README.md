@@ -15,8 +15,6 @@
 This is a **production-grade Agentic RAG (Retrieval-Augmented Generation)** application.
 
 ## Live Demo
-
- Try the RAG Document App — Live!
 <a href="https://rag-document-app-tannu.streamlit.app/">
   <img src="https://img.shields.io/badge/RAG%20DOCUMENT%20APP-LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=000000" height="50" alt="RAG Document App Live Demo" />
 </a>
