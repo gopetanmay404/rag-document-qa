@@ -8714,8 +8714,11 @@ with tab5:
 
     bm25_status = "✅ Loaded" if st.session_state.bm25_index else "❌ Not built"
     faiss_status = "✅ Loaded" if st.session_state.vectorstore else "❌ Not loaded"
-    st.markdown(f"**FAISS:** {faiss_status} | **BM25:** {bm25_status} | "
-                f"**FAISS path:** `{FAISS_INDEX_PATH}`")
+    # st.markdown(f"**FAISS:** {faiss_status} | **BM25:** {bm25_status} | "
+    #             f"**FAISS path:** `{FAISS_INDEX_PATH}`")
+    st.markdown(f"""**FAISS:** {faiss_status} | **BM25:** {bm25_status}  
+                🔒 Storage: Session-based isolated index
+                """)
 
 # ════════════════════════════════════════════════════════
 # FOOTER
