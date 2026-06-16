@@ -8,7 +8,7 @@ streamlit
 streamlit
 pymupdf
 python-dotenv
-
+rank-bm25
 langchain-community
 langchain-huggingface
 faiss-cpu
